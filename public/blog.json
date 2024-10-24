@@ -1,0 +1,53 @@
+
+[
+  {
+      "id": 1,
+      "cover_img": "https://i.ibb.co.com/YQRNZhC/florian-klauer-npt-Lmg6jq-Do-unsplash.jpg",
+      "title": "The Lost City",
+      "author_img": "https://i.ibb.co.com/C8Wfz1v/paul-white-sy3m-Wa-Z1-Mdc-unsplash.jpg",
+      "author": "Jane Doe",
+      "posted_date": "December 25, 2023",
+      "reading_time": 120,
+      "hashtags": ["#Adventure", "#Mystery", "#Fiction"]
+  },
+  {
+      "id": 2,
+      "cover_img": "https://i.ibb.co.com/db1RSbb/clark-tibbs-oq-Stl2-L5ox-I-unsplash-1.jpg",
+      "title": "Beyond the Stars",
+      "author_img": "https://i.ibb.co.com/X32bPF7/austin-distel-97-Hf-Vpy-NR1-M-unsplash.jpg",
+      "author": "John Smith",
+      "posted_date": "February 12, 2023",
+      "reading_time": 180,
+      "hashtags": ["#SciFi", "#Space", "#Exploration"]
+  },
+  {
+      "id": 3,
+      "cover_img": "https://i.ibb.co.com/N7FyGSq/stormseeker-r-X12-B5u-X7-QM-unsplash.jpg",
+      "title": "Whispers in the Wind",
+      "author_img": "https://i.ibb.co.com/TYXTcq3/austin-distel-ortvukj-V1b-M-unsplash.jpg",
+      "author": "Emily Johnson",
+      "posted_date": "August 5, 2023",
+      "reading_time": 90,
+      "hashtags": ["#Romance", "#Drama", "#Literature"]
+  },
+  {
+      "id": 4,
+      "cover_img": "https://i.ibb.co.com/NSVyT1j/jenny-pace-m-QZ-gd9-CV-o-unsplash.jpg",
+      "title": "The Secret Garden",
+      "author_img": "https://i.ibb.co.com/CMVS5r9/vlad-deep-WXFL7e-ANw4o-unsplash.jpg",
+      "author": "Michael Brown",
+      "posted_date": "March 24, 2023",
+      "reading_time": 150,
+      "hashtags": ["#Nature", "#Children", "#Classic"]
+  },
+  {
+      "id": 5,
+      "cover_img": "https://i.ibb.co.com/wsxZ5Bj/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
+      "title": "Code Breaker",
+      "author_img": "https://i.ibb.co.com/YBXtWLP/priscilla-du-preez-f-o1k60mrhc-unsplash.jpg",
+      "author": "Sophia White",
+      "posted_date": "January 10, 2023",
+      "reading_time": 240,
+      "hashtags": ["#Thriller", "#Technology", "#Mystery"]
+  }
+]
