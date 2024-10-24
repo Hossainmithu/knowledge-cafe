@@ -3,7 +3,7 @@ import { PiBookmarkSimple } from "react-icons/pi";
 
 const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
 
-  const { title, cover_img, author_img, author, posted_date, reading_time, hashtags } = blog;
+  const {id, title, cover_img, author_img, author, posted_date, reading_time, hashtags } = blog;
 
   return (
     <div className='mt-20'>
@@ -31,7 +31,7 @@ const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
         }
       </p>
       <button
-      onClick={() => handleMarkAsRead(reading_time)} 
+      onClick={() => handleMarkAsRead(id, reading_time)} 
       className='mt-4 text-purple-400 underline'>Mark As Read</button>
     </div>
   );
